@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Braço Commands</string>
+    <string name="toque">Toque para falar</string>
+    <string name="speech_prompt">Fale a cor desejada&#8230;</string>
+    <string name="erro">Desculpe, seu dispositivo não suporta entradas por fala</string>
+</resources>
